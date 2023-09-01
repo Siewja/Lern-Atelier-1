@@ -26,10 +26,17 @@ Ich würde gerne kleine Aufträge mit der Programmiersprache Phython lernen.
 
 ## Arbeitspakete für 1.09.2023
 
-- [ ] CodeAcademy meine Lektionen weiter führen
-- [ ] Ein Programm, welches den Benutzer nach seinem ALter fragt und sein Jahrgang wiedergibt.
-- [ ] Fragen von meinen Modulen anschauen
-- [ ] 
+- [x] CodeAcademy meine Lektionen weiter führen
+- [x] Ein Programm, welches den Benutzer nach seinem ALter fragt und sein Jahrgang wiedergibt.
+- [x] Fragen von meinen Modulen anschauen
+
+Heute habe ich meine geplanten Arbeitspakete erledigt. Ich habe in CodeAcademy die Grundlagen von C# angeschaut. Ich habe mehrere Variationen eines Random Nummern Generator ausprobiert und den Code immer mehr verändert. Zudem habe ich geprüft wie schnell ich tippe, 52MPM. 
+
+## Arbeitspakete für 15.09.2023 (OPL) 
+
+- [ ] CodeAcademy weiterer Kurs abschliessen
+- [ ] Fragen von meinen Modulen anschauen, weiterarbeiten
+- [ ] Console.ReadLine austesten 
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
 
