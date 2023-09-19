@@ -34,9 +34,17 @@ Heute habe ich meine geplanten Arbeitspakete erledigt. Ich habe in CodeAcademy d
 
 ## Arbeitspakete für 15.09.2023 (OPL) 
 
+- [x] CodeAcademy weiterer Kurs abschliessen
+- [x] Fragen von meinen Modulen anschauen, weiterarbeiten
+- [x] Console.ReadLine austesten
+
+An diesem Freitag, habe ich weiter an meinen CodeAcademy Aufgaben/ Kurse gearbeitet und habe vieles dazu gelernt. Zudem habe ich gestartet die Grundkentnisse von Phython anzuwenden. Ich habe die Console.ReadLine ausgetestet indem ich ein Programm mit Eingabe und Ausgabe erstellt habe. Den Rest des Nachmittags habe ich daran gearbeitet, meine Module weiterzuführen und habe mein Portfoli0 für Modul 319 gestartet. (60 Words)  
+
+## Arbeitspakete für 15.09.2023 (OPL) 
+
 - [ ] CodeAcademy weiterer Kurs abschliessen
 - [ ] Fragen von meinen Modulen anschauen, weiterarbeiten
-- [ ] Console.ReadLine austesten 
+- [ ] Portfolio Modul 319
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
 
